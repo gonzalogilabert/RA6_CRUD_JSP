@@ -2,7 +2,7 @@
 
 Proyecto CRUD para gestionar Asignaturas, Resultados de Aprendizaje y Criterios de Evaluación.
 
-Marco Antonio Ochavo Fernández
+Gonzalo Gilabert
 
 ## Requisitos
 
