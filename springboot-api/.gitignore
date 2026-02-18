@@ -1,0 +1,19 @@
+# Compilados Maven
+target/
+*.jar
+*.war
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+
+# Maven wrapper JAR (se descarga automáticamente)
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
